@@ -8,5 +8,5 @@ Play tic tac toe with anyone on the internet using TCP sockets. This project all
 4. Start the server.
 5. Run the player file. Host has the first turn.
 
-#Enjoy playing it with your friends!
+#Enjoy playing it with your friends and family !
 
